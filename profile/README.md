@@ -2,7 +2,7 @@
 
 Welcome to the Gostevedore organization! We support Stevedore, a tool for building and managing Docker images at scale.
 
-![stevedore-logo](logo_4_stevedore.png "Stevedore logo")
+![stevedore-logo](profile/logo_4_stevedore.png "Stevedore logo")
 
 Stevedore is a tool for building Docker images at scale, and it is not intended to replace Dockerfile or Buildkit. Instead, Stevedore can be used in conjunction with these tools to help streamline the process of building and promoting multiple Docker images.
 
