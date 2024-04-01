@@ -11,3 +11,7 @@ One of the key benefits of using Stevedore is that it provides a consistent way 
 Overall, Stevedore is a useful tool for anyone who needs to build and manage large numbers of Docker images, and it can help to improve the experience of building and promoting Docker images at scale.
 
 To learn more about Stevedore, please visit the [Stevedore website](https://gostevedore.github.io/).
+
+## License
+
+All the repositories under the Gostevedore organization are licensed under the [Apache License, Version 2.0](LICENSE).
